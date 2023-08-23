@@ -42,4 +42,3 @@ function showList(array) {
 document.addEventListener("DOMContentLoaded", (e) => {
   showList(strangeArray);
 });
-
